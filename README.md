@@ -24,7 +24,7 @@ This project was created by[Orlando Charles](https://github.com/orlandocharles)a
 Para instalar el paquete mediante [Composer](https://getcomposer.org/).
 
 ```shell
-composer require orlandocharles/cfdi
+composer require christiancastrorios/cfdi
 ```
 
 ## Uso
